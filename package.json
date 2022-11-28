@@ -9,14 +9,36 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@types/node": "18.11.9",
-    "@types/react": "18.0.25",
-    "@types/react-dom": "18.0.9",
+    "@hookform/resolvers": "^2.9.10",
+    "@lottiefiles/react-lottie-player": "^3.4.9",
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "axios": "^1.2.0",
+    "bootstrap": "^5.2.3",
+    "classnames": "^2.3.2",
+    "enquire.js": "^2.1.6",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.5",
+    "jquery": "^3.6.1",
+    "mobx": "^6.7.0",
+    "mobx-react-lite": "^3.4.0",
+    "mobx-state-tree": "^5.1.6",
+    "moment": "^2.29.4",
     "next": "13.0.5",
+    "patch-package": "^6.5.0",
+    "path-to-regexp": "^6.2.1",
     "react": "18.2.0",
+    "react-bootstrap": "^2.6.0",
     "react-dom": "18.2.0",
-    "typescript": "4.9.3"
+    "react-hook-form": "^7.39.7",
+    "react-intl": "^6.2.1",
+    "sass": "^1.56.1",
+    "typescript": "4.9.3",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9"
   }
 }
